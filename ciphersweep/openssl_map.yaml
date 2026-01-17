@@ -1,0 +1,875 @@
+SSLv3:
+  NULL-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  RC4-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  IDEA-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  DH-DSS-DES-CBC3-SHA:
+  - openssl-1.0.2u
+  DH-RSA-DES-CBC3-SHA:
+  - openssl-1.0.2u
+  DHE-DSS-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  DHE-RSA-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  ADH-RC4-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  ADH-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  DHE-DSS-RC4-SHA: []
+TLSv1:
+  NULL-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  RC4-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  IDEA-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  DHE-DSS-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  DHE-RSA-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  ADH-RC4-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  ADH-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DH-DSS-AES128-SHA:
+  - openssl-1.0.2u
+  DH-DSS-AES256-SHA:
+  - openssl-1.0.2u
+  DH-RSA-AES128-SHA:
+  - openssl-1.0.2u
+  DH-RSA-AES256-SHA:
+  - openssl-1.0.2u
+  DHE-DSS-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DHE-DSS-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DHE-RSA-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DHE-RSA-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  ADH-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  ADH-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DH-DSS-CAMELLIA128-SHA:
+  - openssl-1.0.2u
+  DH-DSS-CAMELLIA256-SHA:
+  - openssl-1.0.2u
+  DH-RSA-CAMELLIA128-SHA:
+  - openssl-1.0.2u
+  DH-RSA-CAMELLIA256-SHA:
+  - openssl-1.0.2u
+  DHE-DSS-CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-DSS-CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DH-DSS-SEED-SHA:
+  - openssl-1.0.2u
+  DH-RSA-SEED-SHA:
+  - openssl-1.0.2u
+  DHE-DSS-SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  GOST94-GOST89-GOST89:
+  - openssl-1.0.2u
+  GOST2001-GOST89-GOST89:
+  - openssl-1.0.2u
+  GOST94-NULL-GOST94:
+  - openssl-1.0.2u
+  GOST2001-NULL-GOST94:
+  - openssl-1.0.2u
+  DHE-DSS-RC4-SHA: []
+  ECDHE-RSA-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-RSA-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-RSA-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-ECDSA-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-ECDSA-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AECDH-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AECDH-RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  AECDH-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  AECDH-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AECDH-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+TLSv1.1:
+  NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  RC4-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  IDEA-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  DHE-DSS-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  DHE-RSA-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  ADH-RC4-MD5:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  ADH-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DH-DSS-AES128-SHA:
+  - openssl-1.0.2u
+  DH-DSS-AES256-SHA:
+  - openssl-1.0.2u
+  DH-RSA-AES128-SHA:
+  - openssl-1.0.2u
+  DH-RSA-AES256-SHA:
+  - openssl-1.0.2u
+  DHE-DSS-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DHE-DSS-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DHE-RSA-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  DHE-RSA-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  ADH-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  ADH-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-0.9.8zh
+  - openssl-3.0.14
+  CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DH-DSS-CAMELLIA128-SHA:
+  - openssl-1.0.2u
+  DH-DSS-CAMELLIA256-SHA:
+  - openssl-1.0.2u
+  DH-RSA-CAMELLIA128-SHA:
+  - openssl-1.0.2u
+  DH-RSA-CAMELLIA256-SHA:
+  - openssl-1.0.2u
+  DHE-DSS-CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-DSS-CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-CAMELLIA128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-CAMELLIA256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DH-DSS-SEED-SHA:
+  - openssl-1.0.2u
+  DH-RSA-SEED-SHA:
+  - openssl-1.0.2u
+  DHE-DSS-SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-SEED-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  GOST94-GOST89-GOST89:
+  - openssl-1.0.2u
+  GOST2001-GOST89-GOST89:
+  - openssl-1.0.2u
+  GOST94-NULL-GOST94:
+  - openssl-1.0.2u
+  GOST2001-NULL-GOST94:
+  - openssl-1.0.2u
+  DHE-DSS-RC4-SHA: []
+  ECDHE-RSA-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-RSA-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-RSA-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-ECDSA-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  ECDHE-ECDSA-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AECDH-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AECDH-RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  AECDH-DES-CBC3-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  AECDH-AES128-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AECDH-AES256-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+TLSv1.2:
+  NULL-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AES128-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AES256-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DH-RSA-AES128-SHA256:
+  - openssl-1.0.2u
+  DH-RSA-AES256-SHA256:
+  - openssl-1.0.2u
+  DH-RSA-AES128-GCM-SHA256:
+  - openssl-1.0.2u
+  DH-RSA-AES256-GCM-SHA384:
+  - openssl-1.0.2u
+  DH-DSS-AES128-SHA256:
+  - openssl-1.0.2u
+  DH-DSS-AES256-SHA256:
+  - openssl-1.0.2u
+  DH-DSS-AES128-GCM-SHA256:
+  - openssl-1.0.2u
+  DH-DSS-AES256-GCM-SHA384:
+  - openssl-1.0.2u
+  DHE-RSA-AES128-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-AES256-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-RSA-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-DSS-AES128-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-DSS-AES256-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-DSS-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-DSS-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-AES128-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-AES256-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-RSA-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES128-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES256-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-AES128-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-AES256-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  ADH-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  AES128-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  AES256-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-RSA-AES128-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-RSA-AES256-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  AES128-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  AES256-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-RSA-AES128-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-RSA-AES256-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES128-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES256-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES128-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-AES256-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-RSA-ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-RSA-ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-DSS-ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-DSS-ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-ARIA128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-ARIA256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-CAMELLIA128-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-CAMELLIA256-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-RSA-CAMELLIA128-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-RSA-CAMELLIA256-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-RC4-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  PSK-3DES-EDE-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  PSK-AES128-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  PSK-AES256-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-1.0.2u
+  - openssl-3.0.14
+  DHE-PSK-RC4-SHA:
+  - openssl-1.1.1w
+  DHE-PSK-3DES-EDE-CBC-SHA:
+  - openssl-1.1.1w
+  DHE-PSK-AES128-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES256-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-RC4-SHA:
+  - openssl-1.1.1w
+  RSA-PSK-3DES-EDE-CBC-SHA:
+  - openssl-1.1.1w
+  RSA-PSK-AES128-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-AES256-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-AES128-GCM-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-AES256-GCM-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES128-CBC-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES256-CBC-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-NULL-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-NULL-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES128-CBC-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES256-CBC-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-NULL-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-NULL-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-AES128-CBC-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-AES256-CBC-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-NULL-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-NULL-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-RC4-SHA:
+  - openssl-1.1.1w
+  ECDHE-PSK-3DES-EDE-CBC-SHA:
+  - openssl-1.1.1w
+  ECDHE-PSK-AES128-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-AES256-CBC-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-AES128-CBC-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-AES256-CBC-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-NULL-SHA:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-NULL-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-NULL-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-CAMELLIA128-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-CAMELLIA256-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-CAMELLIA128-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-CAMELLIA256-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-CAMELLIA128-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-CAMELLIA256-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-CAMELLIA128-SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-CAMELLIA256-SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES128-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES256-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES128-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES256-CCM:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES128-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-AES256-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES128-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-AES256-CCM8:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-RSA-CHACHA20-POLY1305:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-ECDSA-CHACHA20-POLY1305:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-RSA-CHACHA20-POLY1305:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  PSK-CHACHA20-POLY1305:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  ECDHE-PSK-CHACHA20-POLY1305:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  DHE-PSK-CHACHA20-POLY1305:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  RSA-PSK-CHACHA20-POLY1305:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+TLSv1.3:
+  TLS_AES_128_GCM_SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  TLS_AES_256_GCM_SHA384:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  TLS_CHACHA20_POLY1305_SHA256:
+  - openssl-1.1.1w
+  - openssl-3.0.14
+  TLS_AES_128_CCM_SHA256: []
+  TLS_AES_128_CCM_8_SHA256: []
